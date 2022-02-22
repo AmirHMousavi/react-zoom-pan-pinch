@@ -78,7 +78,12 @@
     "webpack-cli": "^4.6.0"
   },
   "files": [
-    "dist"
+    "dist",
+    "src/components",
+    "src/constants",
+    "src/core",
+    "src/hooks",
+    "src/utils"
   ],
   "eslintConfig": {
     "extends": [
